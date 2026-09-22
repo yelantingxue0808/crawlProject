@@ -1,0 +1,19 @@
+# 依赖
+node_modules/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 运行产物（每次运行自动生成）
+run/output.js
+run/log.txt
+log.txt
+
+# 构建
+build/
+
+# 系统
+.DS_Store
+Thumbs.db
